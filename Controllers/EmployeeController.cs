@@ -14,5 +14,9 @@ namespace NguyenVanAn1921050025.Controllers
         {
             return View();
         }
+        public IActionResult Employee()
+        {
+            return View();
+        }
     }
 }

@@ -14,5 +14,9 @@ namespace NguyenVanAn1921050025.Controllers
         {
             return View("An Nguyen");
         }
+        public IActionResult Student()
+        {
+            return View("An Nguyen");
+        }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VL4/WOPFQG1aQ1sZRlrmRMwPEQwaZCatxX3X9H6fVFo=",
+  "Hash": "0NVyMOEhLrcA2vq5AmnL51QDUMjTR3XTKqALwBg6iSw=",
   "Source": "NguyenVanAn1921050025",
   "BasePath": "_content/NguyenVanAn1921050025",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\An Nguyen\\Desktop\\Netcoer\\NguyenVanAn1921050025\\wwwroot\\css\\W3.css",
+      "SourceId": "NguyenVanAn1921050025",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\An Nguyen\\Desktop\\Netcoer\\NguyenVanAn1921050025\\wwwroot\\",
+      "BasePath": "_content/NguyenVanAn1921050025",
+      "RelativePath": "css/W3.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\W3.css"
     },
     {
       "Identity": "C:\\Users\\An Nguyen\\Desktop\\Netcoer\\NguyenVanAn1921050025\\wwwroot\\favicon.ico",
